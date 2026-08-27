@@ -1,4 +1,3 @@
--- P1.12: Result Card with BOOLEAN and NVL
 -- Marks Seed: 19 MOD 30 + 60 = 79
 SET SERVEROUTPUT ON;
 DECLARE
