@@ -1,4 +1,4 @@
--- P1.10: Temperature Converter
+
 -- Celsius Seed: 19 MOD 20 + 25 = 44 C
 SET SERVEROUTPUT ON;
 DECLARE
