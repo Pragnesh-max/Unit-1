@@ -1,4 +1,4 @@
--- P1.1: My First PL/SQL Block
+
 -- Roll No: 19 | Lucky Number Seed: 19 MOD 7 + 1 = 6
 SET SERVEROUTPUT ON;
 DECLARE
