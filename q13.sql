@@ -1,4 +1,3 @@
--- P1.13: ATM Note Splitter
 -- Amount Seed: 19 * 137 + 1000 = 3603
 SET SERVEROUTPUT ON;
 DECLARE
